@@ -20,3 +20,4 @@ Power BI (data modeling across multiple related tables, DAX, Power Query, multi-
 
 ## How to view it
 Download the `.pbix` file and open it in Power BI Desktop (free, Windows only) to interact with the full report.
+# PENDING
